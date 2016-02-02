@@ -1,0 +1,25 @@
+{
+  "name": "sass-rails-loader",
+  "version": "0.1.0",
+  "description": "Sass rails loader for webpack",
+  "main": "index.js",
+  "author": {
+    "name": "Lukas Maciulis",
+    "email": "lukas.maciulis@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LukasMac/sass-rails-loader"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "~0.2.6"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "sass",
+    "rails"
+  ]
+}
